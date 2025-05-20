@@ -1,0 +1,200 @@
+money,brand,model,year,color,fuel_type,door,gear,motor,body_type,kilometres,currency
+10350000,Toyota,Corolla Cross,2022,Plateado,Nafta,5.0,Automática,,SUV,500,pesos
+10850000,Jeep,Compass,2022,Blanco,Nafta,5.0,Automática,2.4,SUV,500,pesos
+35500,Jeep,Compass,2022,Gris oscuro,Nafta,5.0,Automática,2.4,SUV,500,dólares
+19000,Citroën,C4 Cactus,2022,Gris oscuro,Nafta,5.0,Automática,,SUV,550,dólares
+5800000,Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,9000,pesos
+34500,Jeep,Compass,2022,Negro,Nafta,5.0,Automática,1.3,SUV,10500,dólares
+25000,Kia,Sorento,2014,Negro,Diésel,5.0,Automática,2.2,SUV,156000,dólares
+12300,Mercedes-Benz,Clase C,2008,Plateado,Nafta,4.0,Automática,1.8,Sedán,174000,dólares
+35500,BMW,220,2016,Blanco,Nafta,2.0,Automática,TURBO,Coupé,66000,dólares
+6800000,Volkswagen,T-Cross,2019,Naranja,Nafta,5.0,Automática,1.6 MSI Nafta,SUV,35000,pesos
+38500,Mercedes-Benz,Clase A,2017,Plateado,Nafta,5.0,Automática,3,Hatchback,55394,dólares
+20500,Mercedes-Benz,Clase A,2013,Blanco,Nafta,5.0,Manual,1.6,Hatchback,162080,dólares
+3500000,Renault,Sandero,2022,Plateado,Nafta,5.0,Manual,,Sedán,111111,pesos
+5990000,Volkswagen,Polo,2022,Blanco,Nafta,5.0,Manual,1.6,Hatchback,111111,pesos
+41900,BMW,Serie 1,2020,Negro,Nafta,5.0,Automática,,Hatchback,34800,dólares
+2100000,Ford,Ecosport,2011,Beige,Nafta,4.0,Manual,1.6,SUV,101000,pesos
+38500,Chevrolet,Trailblazer,2019,Gris,Diésel,5.0,Automática,,SUV,73000,dólares
+2940000,Toyota,Etios,2015,Blanco,Nafta,5.0,Manual,1.5,Hatchback,83000,pesos
+2050000,Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,99000,pesos
+4120000,Toyota,RAV4,2011,Gris,Nafta,5.0,Automática,2.4,SUV,180000,pesos
+4100000,Toyota,Etios,2018,Gris,Nafta,5.0,Manual,1.5,Sedán,80000,pesos
+15000,Mini,Cooper,2013,Rojo,Nafta,5.0,Manual,1.6,Hatchback,105000,dólares
+5099000,Jeep,Renegade,2018,Rojo,Nafta,5.0,Manual,1.8,SUV,78000,pesos
+8300000,Toyota,Hilux,2017,Rojo,Diésel,4.0,Manual,2.8,Pick-Up,170000,pesos
+2800000,Fiat,Bravo,2013,Negro,Nafta,5.0,Manual,,Hatchback,124000,pesos
+4500000,Ford,Ecosport,2019,Gris,Nafta,5.0,Manual,1.5,SUV,61000,pesos
+2400000,Chevrolet,Classic,2014,Gris,Nafta,5.0,Manual,1.6,Hatchback,38000,pesos
+5200000,Renault,Master,2013,Blanco,Diésel,3.0,Manual,2.3,Hatchback,180000,pesos
+7500000,Ford,Ranger,2021,Blanco,Diésel,4.0,Manual,2.2,Pick-Up,55000,pesos
+2450000,Peugeot,408,2013,Gris oscuro,Nafta,4.0,Manual,2,Sedán,95000,pesos
+5200000,Honda,CR-V,2013,Blanco,Nafta,5.0,Automática,2,SUV,186700,pesos
+10200000,Toyota,Hilux,2022,Negro,Diésel,4.0,Manual,,Pick-Up,21000,pesos
+2450000,Dodge,Journey,2011,Blanco,Nafta,5.0,Automática,2.4,Crossover,110000,pesos
+2585000,Fiat,Siena,2017,Gris,Nafta,5.0,Manual,1.4,Sedán,62000,pesos
+3150000,Ford,Fiesta,2016,Rojo,Nafta,5.0,Manual,,Hatchback,68000,pesos
+4300000,Hyundai,Tucson,2010,Negro,Nafta,5.0,Manual,2,SUV,125000,pesos
+7589900,Honda,HR-V,2019,Rojo,Nafta,5.0,Automática,1.8,SUV,39000,pesos
+1950000,Fiat,Linea,2014,Plateado,Nafta,4.0,Manual,1.8,Sedán,147000,pesos
+3050000,Chevrolet,Onix,2016,Gris,Nafta,5.0,Manual,1.4,Hatchback,64000,pesos
+3150000,Peugeot,408,2015,Blanco,Nafta,4.0,Manual,1.6,Sedán,90000,pesos
+9389900,Chevrolet,Equinox,2021,Plateado,Nafta,5.0,Automática,1.5,SUV,23000,pesos
+3290000,Peugeot,308,2015,Blanco,Nafta,5.0,Automática,1.6,Hatchback,83000,pesos
+14900,Audi,A1,2011,Blanco,Nafta,3.0,Automática,1.4,Hatchback,99000,dólares
+3150000,Citroën,Aircross,2017,Plateado,Nafta/GNC,5.0,Automática,1.6,Hatchback,75000,pesos
+3100000,Peugeot,408,2015,Gris,Nafta,4.0,Manual,2.0,Sedán,57000,pesos
+2750000,Peugeot,308,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,98000,pesos
+3750000,Ford,Kuga,2013,Blanco,Nafta,5.0,Manual,2.5,SUV,85000,pesos
+11290000,Toyota,Corolla Cross,2022,Rojo,Híbrido/Nafta,5.0,Automática,1.8,SUV,510,pesos
+46900,Jeep,Grand Cherokee,2015,Blanco,Nafta,5.0,Automática,3.6,SUV,44000,dólares
+2520000,Fiat,Palio,2018,Blanco,Nafta,5.0,Manual,1.4,Hatchback,53000,pesos
+43000,Toyota,Camry,2018,Gris,Nafta,4.0,Automática,3.5,Sedán,59698,dólares
+17900,Peugeot,208,2018,Negro,Nafta,5.0,Manual,1.6,Sedán,60202,dólares
+5850000,Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,10000,pesos
+32000,Mercedes-Benz,Clase E,2014,Blanco,Nafta,4.0,Automática,2.1,Sedán,129681,dólares
+185000,Mercedes-Benz,Clase E,2019,Gris,Nafta,4.0,Automática,3,Sedán,18594,dólares
+23500,Hyundai,Genesis,2012,Gris,Nafta,2.0,Manual,,Coupé,104270,dólares
+79900,Porsche,Panamera,2010,Blanco,Nafta,4.0,Automática,,Sedán,59141,dólares
+2500000,Volkswagen,Up!,2015,Blanco,Nafta,5.0,Automática,1.0,Hatchback,110000,pesos
+1700000,Citroën,C3,2010,Azul,Nafta,5.0,Manual,1.6,Hatchback,141000,pesos
+2690000,Nissan,Tiida,2013,Dorado,Nafta,5.0,Manual,1.8,Hatchback,96000,pesos
+4400000,Citroën,C4 Cactus,2017,Blanco,Nafta,5.0,Automática,1.2,SUV,58000,pesos
+3990000,Peugeot,208,2021,Gris,Nafta,5.0,Manual,1.6,Hatchback,7400,pesos
+3950000,Citroën,C3,2020,Plateado,Nafta,5.0,Manual,1.6,Hatchback,38000,pesos
+2290000,Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,133000,pesos
+3900000,Jeep,Compass,2013,Gris,Nafta,5.0,Automática,2.4,SUV,140000,pesos
+3750000,Ford,Focus III,2017,Azul,Nafta,5.0,Manual,1.6,Hatchback,46000,pesos
+2650000,Peugeot,308,2012,Gris,Nafta,5.0,Manual,1.6,Hatchback,139000,pesos
+58000,Toyota,SW4,2019,Blanco,Diésel,5.0,Automática,2.8,SUV,63000,dólares
+5200000,Fiat,Toro,2018,Negro,Diésel,4.0,Manual,2.0,Pick-Up,59000,pesos
+3800000,Toyota,Etios,2018,Gris,Nafta,4.0,Manual,1.5,Sedán,64000,pesos
+3650000,Citroën,C4 Lounge,2017,Blanco,Nafta,4.0,Automática,1.6,Sedán,48000,pesos
+4599999,Peugeot,208,2019,Blanco,Nafta,5.0,Manual,1.6,Hatchback,48000,pesos
+2280000,Fiat,Punto,2013,Blanco,Nafta,5.0,Manual,1.4,Hatchback,93000,pesos
+6489000,Nissan,Kicks,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,53000,pesos
+4450000,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,40000,pesos
+8490000,Volkswagen,Vento,2018,Blanco,Nafta,4.0,Manual,2.0,Sedán,44000,pesos
+3600000,Peugeot,208,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,82000,pesos
+6750000,Jeep,Compass,2018,Negro,Nafta,5.0,Manual,2.4,SUV,60000,pesos
+2789900,Renault,Kwid,2018,Naranja,Nafta,5.0,Manual,1.0,Hatchback,49000,pesos
+3189900,Ford,Ecosport,2014,Negro,Nafta,5.0,Manual,1.6,SUV,79000,pesos
+3189900,Ford,Ka,2019,Blanco,Nafta/GNC,4.0,Manual,1.5,Sedán,59000,pesos
+2950000,Chevrolet,Spin,2014,Gris,Nafta,5.0,Automática,1.8,Monovolumen,140000,pesos
+4250000,Fiat,Argo,2022,Blanco,Nafta,5.0,Manual,1.3,Hatchback,2000,pesos
+3450000,Chevrolet,Spin,2016,Blanco,Nafta,5.0,Manual,1.8,Monovolumen,48000,pesos
+4200500,Peugeot,208,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,80000,pesos
+4590000,Peugeot,208,2019,Gris,Nafta,5.0,Manual,1.6,Hatchback,13000,pesos
+4237000,Ford,Focus III,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,86000,pesos
+2550000,Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,118000,pesos
+11900000,Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,51700,pesos
+2100500,Ford,Focus II,2009,Dorado,Nafta,5.0,Manual,2.0,Hatchback,133000,pesos
+5650000,Peugeot,2008,2020,Marrón,Nafta,5.0,Automática,1.6,SUV,26000,pesos
+3500000,Chevrolet,Onix,2020,Blanco,Nafta,5.0,Manual,1.4,Hatchback,25000,pesos
+5289900,Ford,Focus III,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,55000,pesos
+2350000,Peugeot,208,2013,Negro,Nafta,5.0,Manual,1.5,Hatchback,110000,pesos
+3800000,Chevrolet,Onix,2018,Blanco,Nafta,5.0,Automática,1.4,Hatchback,40000,pesos
+5889900,Toyota,Yaris,2021,Blanco,Nafta,5.0,Automática,1.5,Hatchback,19000,pesos
+78500,RAM,1500,2022,Gris,Nafta,4.0,Automática,5.7,Pick-Up,8300,dólares
+7550000,Volkswagen,Nivus,2021,Blanco,Nafta,5.0,Automática,1.0,SUV,34000,pesos
+3590000,Renault,Sandero,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,57000,pesos
+6190000,Renault,Duster Oroch,2021,Negro,Nafta,4.0,Manual,2.0,SUV,26000,pesos
+1610000,Renault,Sandero,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,83000,pesos
+1960000,Volkswagen,Gol Trend,2015,Plateado,Nafta,5.0,Manual,1.6,Hatchback,65500,pesos
+2280000,Citroën,C4 Lounge,2014,Plateado,Nafta,4.0,Automática,1.6,Sedán,87000,pesos
+2100000,Volkswagen,Vento,2015,Plateado,Nafta,4.0,Manual,2.0,Sedán,54500,pesos
+1650000,Volkswagen,Up!,2018,Blanco,Nafta,5.0,Manual,1.0,Hatchback,79000,pesos
+3590000,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,87000,pesos
+2150000,Ford,Focus III,2014,Plateado,Nafta,4.0,Manual,2.0,Sedán,57000,pesos
+3800000,Honda,HR-V,2015,Plateado,Nafta,5.0,Automática,1.8,SUV,92000,pesos
+1550000,Volkswagen,Gol,2012,Negro,Nafta,5.0,Manual,1.4,Hatchback,102000,pesos
+1595000,Renault,Clio,2014,Blanco,Nafta,3.0,Manual,1.2,Hatchback,85000,pesos
+4700000,Jeep,Renegade,2017,Gris,Nafta,5.0,Manual,1.8,SUV,52000,pesos
+2800000,Peugeot,2008,2016,Gris,Nafta,5.0,Manual,1.6,SUV,127000,pesos
+42900,Hyundai,H1,2015,Gris,Diésel,4.0,Automática,2.5,Monovolumen,8900,dólares
+7500000,Volkswagen,Vento,2017,Gris,Nafta,4.0,Manual,2.0,Sedán,54000,pesos
+6300000,Honda,CR-V,2016,Negro,Nafta,5.0,Automática,2.4,SUV,126000,pesos
+3450000,Fiat,Palio,2016,Marrón,Nafta,5.0,Manual,1.6,Rural,59000,pesos
+9500500,Ford,Ranger,2018,Gris,Diésel,4.0,Automática,3.2,Pick-Up,70000,pesos
+3890000,Chevrolet,Cruze,2014,Azul,Nafta,5.0,Automática,1.8,Hatchback,31000,pesos
+4200000,Peugeot,2008,2017,Blanco,Nafta,5.0,Manual,1.6,SUV,78000,pesos
+6500000,Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,129000,pesos
+4289900,Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,pesos
+12400000,Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,52000,pesos
+4189900,Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,pesos
+3650000,Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,115000,pesos
+6300000,Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,pesos
+6299000,Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,pesos
+16000,Volkswagen,Golf,2016,Plateado,Nafta,5.0,Automática,1.4,Hatchback,126000,dólares
+2700000,Renault,Sandero,2018,Negro,Nafta,5.0,Manual,1.6,Hatchback,44000,pesos
+1975000,Fiat,Uno,2016,Blanco,Nafta,5.0,Manual,1.4,Hatchback,87000,pesos
+3650000,Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,114000,pesos
+1890000,Renault,Sandero,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,107000,pesos
+6500000,Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,128900,pesos
+5200000,Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33444,pesos
+4689900,Citroën,Jumper,2014,Blanco,Diésel,4.0,Manual,2.3,Furgón,139000,pesos
+115700,BMW,Serie M,2017,Gris,Nafta,2.0,Automática,3.0,Coupé,11000,dólares
+3000000,Renault,Logan,2018,Dorado,Nafta,4.0,Manual,1.6,Sedán,42000,pesos
+2700500,Fiat,Palio,2017,Gris,Nafta,5.0,Manual,1.4,Hatchback,37000,pesos
+2000500,Ford,Focus II,2009,Gris,Nafta,4.0,Manual,2.0,Sedán,160000,pesos
+2000500,Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,88000,pesos
+2000500,Peugeot,207,2012,Gris,Diésel,5.0,Manual,1.4,Hatchback,110000,pesos
+4429800,Chevrolet,Cruze II,2018,Plateado,Nafta,4.0,Manual,1.4,Sedán,63000,pesos
+2450500,Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,88000,pesos
+5849000,Volkswagen,Amarok,2015,Gris,Diésel,4.0,Manual,2.0,Pick-Up,138468,pesos
+1650000,Chevrolet,Aveo,2011,Blanco,Nafta,4.0,Manual,1.6,Sedán,153000,pesos
+2450500,Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,95000,pesos
+5029000,Renault,Captur,2021,Plateado,Nafta,5.0,Manual,2.0,SUV,102000,pesos
+5200000,Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33500,pesos
+1850000,Chevrolet,Celta,2012,Rojo,Nafta,3.0,Manual,1.4,Hatchback,85000,pesos
+2849900,Volkswagen,Gol Trend,2017,Azul,Nafta,3.0,Manual,1.6,Hatchback,45000,pesos
+3489900,Volkswagen,Gol Trend,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,39000,pesos
+3350000,Ford,Ecosport,2016,Blanco,Nafta,5.0,Manual,1.6,SUV,108000,pesos
+8489900,Volkswagen,Passat,2017,Blanco,Nafta,4.0,Automática,2.0,Sedán,59000,pesos
+3889900,Volkswagen,Polo,2018,Azul,Nafta,5.0,Automática,1.6,Hatchback,79000,pesos
+3650000,Chevrolet,Prisma,2018,Plateado,Nafta,4.0,Automática,1.4,Sedán,38000,pesos
+2589900,Peugeot,208,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,79000,pesos
+3899900,Peugeot,2008,2017,Gris,Nafta,5.0,Manual,1.6,SUV,68000,pesos
+3689900,Nissan,Versa,2019,Blanco,Nafta,4.0,Automática,1.6,Sedán,50000,pesos
+5100000,Volkswagen,Golf,2016,Gris,Nafta,5.0,Automática,1.4,Hatchback,115000,pesos
+5489900,Jeep,Renegade,2018,Verde,Nafta,5.0,Automática,1.8,SUV,69000,pesos
+4190000,Ford,Focus III,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,56000,pesos
+8989900,Ford,Ranger,2020,Gris,Diésel,4.0,Automática,3.2,Pick-Up,14000,pesos
+6489900,Ford,Ranger,2015,Blanco,Diésel,4.0,Automática,3.2,Pick-Up,169000,pesos
+7289900,Ford,Mondeo,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,60000,pesos
+2789900,Fiat,Fiorino,2016,Blanco,Nafta,3.0,Manual,1.4,Furgón,61000,pesos
+2489900,Fiat,Qubo,2014,Rojo,Nafta/GNC,5.0,Manual,1.4,Monovolumen,118000,pesos
+6700000,Audi,Q5,2013,Blanco,Nafta,5.0,Automática,2.0,SUV,153000,pesos
+3890000,Chevrolet,Cruze,2014,Gris,Nafta,4.0,Automática,1.8,Sedán,31000,pesos
+5780000,Baic,X55,2019,Negro,Nafta,5.0,Manual,1.5,SUV,38800,pesos
+4400000,Toyota,Corolla,2016,Blanco,Nafta,4.0,Manual,1.8,Sedán,75000,pesos
+52900,Toyota,Hilux,2022,Blanco,Diésel,4.0,Automática,TOYOTA 2.8,Pick-Up,1000,dólares
+2158000,Chevrolet,Classic,2014,Plateado,Nafta/GNC,4.0,Manual,1.4,Sedán,63000,pesos
+2200000,Renault,Kangoo,2013,Plateado,Nafta,3.0,Manual,1.6,Furgón,88000,pesos
+2189900,Citroën,C4,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,79000,pesos
+3689900,Volkswagen,Polo,2017,Dorado,Nafta,4.0,Automática,1.6,Hatchback,45000,pesos
+17500,Mercedes-Benz,Clase A,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,115000,dólares
+3689900,Volkswagen,Polo,2017,Dorado,Nafta,5.0,Automática,1.6,Hatchback,45000,pesos
+4690000,Volkswagen,Vento,2016,Negro,Nafta/GNC,4.0,Automática,2.5,Sedán,172000,pesos
+8990000,Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,SUV,59900,pesos
+4890000,Chevrolet,Tracker,2017,Gris,Nafta,5.0,Automática,1.8,SUV,41000,pesos
+3200000,Peugeot,Partner Patagónica,2015,Blanco,Nafta,4.0,Manual,1.6,Monovolumen,91000,pesos
+2500000,Fiat,500,2012,Negro,Nafta,3.0,Manual,1.4,Hatchback,79000,pesos
+2950000,Fiat,500,2013,Marrón,Nafta,3.0,Manual,1.4,Hatchback,81262,pesos
+6290000,Honda,HR-V,2016,Violeta,Nafta,5.0,Automática,1.8,SUV,60000,pesos
+3900000,Renault,Sandero Stepway,2020,Blanco,Nafta,5.0,Automática,1.6,Hatchback,62850,pesos
+7880000,Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Manual,2.4,SUV,90000,pesos
+10900000,Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,SUV,48711,pesos
+1750000,Ford,Ka,2013,Gris,Nafta,3.0,Manual,1.0,Hatchback,70000,pesos
+4250000,Renault,Duster,2017,Blanco,Nafta,5.0,Manual,1.6,SUV,60000,pesos
+3520000,Peugeot,Partner,2016,Gris,Diésel,4.0,Manual,1.6,Furgón,74000,pesos
+9450000,Volkswagen,Amarok,2019,Azul,Diésel,4.0,Automática,2.0,Pick-Up,69000,pesos
+3650000,Citroën,C-Elysée,2019,Azul,Diésel,4.0,Manual,1.6,Sedán,53000,pesos
+4779900,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,60000,pesos
+3490000,Fiat,Argo,2019,Gris,Nafta,5.0,Manual,1.3,Hatchback,18000,pesos
+3200000,Nissan,Sentra,2014,Negro,Nafta,4.0,Automática,2.0,Sedán,96000,pesos
+3490000,Fiat,Cronos,2019,Blanco,Nafta,4.0,Manual,1.8,Sedán,86000,pesos
+2689900,Peugeot,408,2013,Gris,Diésel,4.0,Manual,1.6,Sedán,89000,pesos
+3489900,Chevrolet,Spin,2016,Gris,Nafta/GNC,5.0,Manual,1.8,Monovolumen,98000,pesos
+5389900,Nissan,Kicks,2018,Plateado,Nafta,5.0,Automática,1.6,Hatchback,59000,pesos
+3348000,Citroën,Aircross,2017,Gris,Nafta,5.0,Manual,1.5,Hatchback,61389,pesos
